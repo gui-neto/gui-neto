@@ -15,8 +15,6 @@
 - 📊 Curto trabalhar em equipe no estilo Scrum.
 - 🐳 Docker? Claro, adoro conteiners!
 - 💬 Comunicação é a chave do sucesso.
-- 📫 Vamos bater um papo? Me chama no [LinkedIn](Link para o LinkedIn).
+- 📫 Vamos bater um papo? Me chama no [LinkedIn](https://www.linkedin.com/in/guilherme-martinsneto/).
 
 #### Vamos juntos moldar o futuro da tecnologia! 🚀
-
--->
