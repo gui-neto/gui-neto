@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá, sou o Guilherme Martins! 👋
 
-<!--
-**gui-neto/gui-neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre Mim:
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+- 💻 Desenvolvedor Fullstack Java Jr.
+- 🚀 Determinado a voar alto graças à Generation Brasil.
 
-Here are some ideas to get you started:
+#### O que sei fazer de melhor:
+- 💾 Programação Java é comigo mesmo.
+- 📦 Banco de dados MySQL é meu parça.
+- 🌐 Desenvolvimento web com Spring Boot é minha praia.
+- 🌟 Sou fera em HTML, CSS, JavaScript e React.JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### E tem mais:
+- 📊 Curto trabalhar em equipe no estilo Scrum.
+- 🐳 Docker? Claro, adoro conteiners!
+- 💬 Comunicação é a chave do sucesso.
+- 📫 Vamos bater um papo? Me chama no [LinkedIn](Link para o LinkedIn).
+
+#### Vamos juntos moldar o futuro da tecnologia! 🚀
+
 -->
